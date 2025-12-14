@@ -1,4 +1,4 @@
-# Identificación de especies a partir de muestras COI - Investigathon
+#  Optimización de Estrategias de Clasificación Taxonómica: Análisis Comparativo de Barcoding COI y Modelos K-méricos
 
 > ****
 
@@ -7,13 +7,15 @@
 ![Bioinformatics](https://img.shields.io/badge/Domain-Bioinformatics-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+##  Participación
+Joaquín Bermúdez Aletti, Bautista Hayashi, Juan Bautista Marcico y Tomás Irianni.
+
 ##  Resumen 
 Este proyecto fue realizado para el track de bioinformática del Investigathón 2025 llevado a cabo por Y-hat. Consistió en encontrar maneras eficientes de clasificar especies con un dataset FASTA con casi 2 millones de muestras de COI (Citocromo Oxidasa 1) de taxonomía variada. 
 
 Logramos desarrollar modelos alignement-free con precisión mayor al 99,5% en búsqueda de un equilibro entre exactitud y capacidad de procesamiento.
 
 Nos centramos en la familia Formicidae para profundizar en el análisis y demostramos que una subsecuencia que permitía diferenciar entre especies de hormigas (20k muestras, >90% accuracy) era extrapolable a todo el dataset (1.7M de muestras), alcanzando más del 80% de precisión.
----
 
 ## 📊 Gráficos
 
